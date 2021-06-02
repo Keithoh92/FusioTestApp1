@@ -23,29 +23,37 @@ class WeatherController extends Controller
         $data->delete();
         return redirect('dashboard');
     }
-    //display all database items in table
-    function showData($forecast_id)
-    {
-        $data = Forecast::query()->find($forecast_id);
-        return view('edit', ['data'=>$data]);
-    }
 
-    function add(Request $request)
+    public function add(Request $request)
     {
 
 
         $request->validate([
            'id' => 'required',
-           'location' => 'required',
+           'counties' => 'required',
            'date' => 'required',
-           'wind_speed' => 'required',
-           'wind_dir' => 'required',
+           'min_temp' => 'required',
+           'max_temp' => 'required',
+           'wind_speed_day' => 'required',
+           'wind_dir_day' => 'required',
            'wind_speed_night' => 'required',
            'wind_dir_night' => 'required'
         ]);
         $nonce = 1;
 
         $forecast = new Forecast;
+//        $forecast->fill([
+//           'id' => $request->id,
+//           'location' => $request->location,
+//            'date' => $request->date,
+//            'min_temp' => $request->min_temp,
+//            'max_temp' => $request->max_temp,
+//            'wind_speed' => $request->wind_speed_day,
+//            'wind_dir' => $request->wind_dir_day,
+//            'wind_speed_night' => $request->wind_speed_night,
+//            'wind_dir_night' => $request->wind_dir_night
+//        ]);
+
         $forecast->id = $request->id;
         $forecast->location = $request->counties;
         $forecast->date = $request->date;
@@ -79,4 +87,15 @@ class WeatherController extends Controller
             return back()->with('Entry failed');
         }
     }
+    //edit items in DB
+    function showData($forecast_id)
+    {
+        $data = Forecast::query()->find($forecast_id);
+        return view('edit', ['data'=>$data]);
+    }
+
+//    public function update($forecast_id)
+//    {
+//        $post =
+//    }
 }
