@@ -1,0 +1,668 @@
+<forecast time="2018-11-14T10:00:00" issued="2018-11-14T05:00:00">
+    <station>
+        <id>03969</id>
+        <location>Dublin</location>
+        <day>
+            <day_num>14</day_num>
+            <date>2018-11-14T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>14</max_temp>
+            <weather>05d.png</weather>
+            <weather_night>04.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>GREYCLOUD</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>SSW</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>15</day_num>
+            <date>2018-11-15T12:00:00</date>
+            <min_temp>5</min_temp>
+            <max_temp>15</max_temp>
+            <weather>05d.png</weather>
+            <weather_night>02n.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>SUN_WITH_LIGHT_CLOUD</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>SSE</wind_dir>
+            <wind_speed_night> 10 </wind_speed_night>
+            <wind_dir_night>SE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>16</day_num>
+            <date>2018-11-16T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>14</max_temp>
+            <weather>04.png</weather>
+            <weather_night>04.png</weather_night>
+            <weather_text> GREYCLOUD</weather_text>
+            <weather_textN>GREYCLOUD</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>SSE</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>SE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>17</day_num>
+            <date>2018-11-17T12:00:00</date>
+            <min_temp>8</min_temp>
+            <max_temp>12</max_temp>
+            <weather>05d.png</weather>
+            <weather_night>01n.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>CLEAR_WEATHER_SUN</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>ESE</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>ESE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>18</day_num>
+            <date>2018-11-18T12:00:00</date>
+            <min_temp>8</min_temp>
+            <max_temp>11</max_temp>
+            <weather>01d.png</weather>
+            <weather_night>01n.png</weather_night>
+            <weather_text> CLEAR_WEATHER_SUN</weather_text>
+            <weather_textN>CLEAR_WEATHER_SUN</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>E</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>E</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03956</id>
+        <location>Wexford</location>
+        <day>
+            <day_num>14</day_num>
+            <date>2018-11-14T12:00:00</date>
+            <min_temp>12</min_temp>
+            <max_temp>13</max_temp>
+            <weather>46.png</weather>
+            <weather_night>04.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>GREYCLOUD</weather_textN>
+            <wind_speed> 40 </wind_speed>
+            <wind_dir>SSW</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>15</day_num>
+            <date>2018-11-15T12:00:00</date>
+            <min_temp>10</min_temp>
+            <max_temp>14</max_temp>
+            <weather>05d.png</weather>
+            <weather_night>03n.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>SUN_WITH_GREY_CLOUD</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>SSW</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>SW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>16</day_num>
+            <date>2018-11-16T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>13</max_temp>
+            <weather>04.png</weather>
+            <weather_night>04.png</weather_night>
+            <weather_text> GREYCLOUD</weather_text>
+            <weather_textN>GREYCLOUD</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>SSE</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>SE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>17</day_num>
+            <date>2018-11-17T12:00:00</date>
+            <min_temp>8</min_temp>
+            <max_temp>12</max_temp>
+            <weather>03d.png</weather>
+            <weather_night>01n.png</weather_night>
+            <weather_text> SUN_WITH_GREY_CLOUD</weather_text>
+            <weather_textN>CLEAR_WEATHER_SUN</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>ESE</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>ESE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>18</day_num>
+            <date>2018-11-18T12:00:00</date>
+            <min_temp>8</min_temp>
+            <max_temp>11</max_temp>
+            <weather>01d.png</weather>
+            <weather_night>01n.png</weather_night>
+            <weather_text> CLEAR_WEATHER_SUN</weather_text>
+            <weather_textN>CLEAR_WEATHER_SUN</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>ENE</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>ENE</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03955</id>
+        <location>Cork</location>
+        <day>
+            <day_num>14</day_num>
+            <date>2018-11-14T12:00:00</date>
+            <min_temp>12</min_temp>
+            <max_temp>13</max_temp>
+            <weather>46.png</weather>
+            <weather_night>05n.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>MEDIUM_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>SSW</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>15</day_num>
+            <date>2018-11-15T12:00:00</date>
+            <min_temp>6</min_temp>
+            <max_temp>13</max_temp>
+            <weather>46.png</weather>
+            <weather_night>02n.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>SUN_WITH_LIGHT_CLOUD</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>SSW</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>SSE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>16</day_num>
+            <date>2018-11-16T12:00:00</date>
+            <min_temp>12</min_temp>
+            <max_temp>13</max_temp>
+            <weather>04.png</weather>
+            <weather_night>04.png</weather_night>
+            <weather_text> GREYCLOUD</weather_text>
+            <weather_textN>GREYCLOUD</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>SE</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>SE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>17</day_num>
+            <date>2018-11-17T12:00:00</date>
+            <min_temp>9</min_temp>
+            <max_temp>13</max_temp>
+            <weather>46.png</weather>
+            <weather_night>03n.png</weather_night>
+            <weather_text> DRIZZLE</weather_text>
+            <weather_textN>SUN_WITH_GREY_CLOUD</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>ESE</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>ESE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>18</day_num>
+            <date>2018-11-18T12:00:00</date>
+            <min_temp>8</min_temp>
+            <max_temp>11</max_temp>
+            <weather>02d.png</weather>
+            <weather_night>02n.png</weather_night>
+            <weather_text> SUN_WITH_LIGHT_CLOUD</weather_text>
+            <weather_textN>SUN_WITH_LIGHT_CLOUD</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>E</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>E</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03953</id>
+        <location>Kerry</location>
+        <day>
+            <day_num>14</day_num>
+            <date>2018-11-14T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>14</max_temp>
+            <weather>46.png</weather>
+            <weather_night>09.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>MEDIUM_RAIN</weather_textN>
+            <wind_speed> 40 </wind_speed>
+            <wind_dir>SSW</wind_dir>
+            <wind_speed_night> 40 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>15</day_num>
+            <date>2018-11-15T12:00:00</date>
+            <min_temp>10</min_temp>
+            <max_temp>12</max_temp>
+            <weather>46.png</weather>
+            <weather_night>02n.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>SUN_WITH_LIGHT_CLOUD</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>SW</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>SSE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>16</day_num>
+            <date>2018-11-16T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>14</max_temp>
+            <weather>04.png</weather>
+            <weather_night>04.png</weather_night>
+            <weather_text> GREYCLOUD</weather_text>
+            <weather_textN>GREYCLOUD</weather_textN>
+            <wind_speed> 35 </wind_speed>
+            <wind_dir>SSE</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>SE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>17</day_num>
+            <date>2018-11-17T12:00:00</date>
+            <min_temp>9</min_temp>
+            <max_temp>13</max_temp>
+            <weather>04.png</weather>
+            <weather_night>02n.png</weather_night>
+            <weather_text> GREYCLOUD</weather_text>
+            <weather_textN>SCATTERED_CLOUDS</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>SE</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>ESE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>18</day_num>
+            <date>2018-11-18T12:00:00</date>
+            <min_temp>7</min_temp>
+            <max_temp>12</max_temp>
+            <weather>01d.png</weather>
+            <weather_night>01n.png</weather_night>
+            <weather_text> CLEAR_WEATHER_SUN</weather_text>
+            <weather_textN>CLEAR_WEATHER_SUN</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>ESE</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>E</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03985</id>
+        <location>Galway</location>
+        <day>
+            <day_num>14</day_num>
+            <date>2018-11-14T12:00:00</date>
+            <min_temp>12</min_temp>
+            <max_temp>15</max_temp>
+            <weather>10.png</weather>
+            <weather_night>10.png</weather_night>
+            <weather_text> HEAVY_RAIN</weather_text>
+            <weather_textN>HEAVY_RAIN</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>SSW</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>15</day_num>
+            <date>2018-11-15T12:00:00</date>
+            <min_temp>6</min_temp>
+            <max_temp>12</max_temp>
+            <weather>46.png</weather>
+            <weather_night>01n.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>CLEAR_WEATHER_SUN</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>SSE</wind_dir>
+            <wind_speed_night> 15 </wind_speed_night>
+            <wind_dir_night>SE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>16</day_num>
+            <date>2018-11-16T12:00:00</date>
+            <min_temp>12</min_temp>
+            <max_temp>14</max_temp>
+            <weather>03d.png</weather>
+            <weather_night>04.png</weather_night>
+            <weather_text> SUN_WITH_GREY_CLOUD</weather_text>
+            <weather_textN>GREYCLOUD</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>ESE</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>ESE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>17</day_num>
+            <date>2018-11-17T12:00:00</date>
+            <min_temp>6</min_temp>
+            <max_temp>14</max_temp>
+            <weather>04.png</weather>
+            <weather_night>01n.png</weather_night>
+            <weather_text> GREYCLOUD</weather_text>
+            <weather_textN>CLEAR_WEATHER_SUN</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>ESE</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>ESE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>18</day_num>
+            <date>2018-11-18T12:00:00</date>
+            <min_temp>5</min_temp>
+            <max_temp>11</max_temp>
+            <weather>01d.png</weather>
+            <weather_night>01n.png</weather_night>
+            <weather_text> CLEAR_WEATHER_SUN</weather_text>
+            <weather_textN>CLEAR_WEATHER_SUN</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>ESE</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>E</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03978</id>
+        <location>Donegal</location>
+        <day>
+            <day_num>14</day_num>
+            <date>2018-11-14T12:00:00</date>
+            <min_temp>12</min_temp>
+            <max_temp>14</max_temp>
+            <weather>46.png</weather>
+            <weather_night>46.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>LIGHT_RAIN</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>SSW</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>SSE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>15</day_num>
+            <date>2018-11-15T12:00:00</date>
+            <min_temp>6</min_temp>
+            <max_temp>13</max_temp>
+            <weather>46.png</weather>
+            <weather_night>01n.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>CLEAR_WEATHER_SUN</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>SSW</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>16</day_num>
+            <date>2018-11-16T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>13</max_temp>
+            <weather>02d.png</weather>
+            <weather_night>04.png</weather_night>
+            <weather_text> SCATTERED_CLOUDS</weather_text>
+            <weather_textN>GREYCLOUD</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>SE</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>SE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>17</day_num>
+            <date>2018-11-17T12:00:00</date>
+            <min_temp>7</min_temp>
+            <max_temp>13</max_temp>
+            <weather>04.png</weather>
+            <weather_night>02n.png</weather_night>
+            <weather_text> GREYCLOUD</weather_text>
+            <weather_textN>SCATTERED_CLOUDS</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>SE</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>ESE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>18</day_num>
+            <date>2018-11-18T12:00:00</date>
+            <min_temp>6</min_temp>
+            <max_temp>10</max_temp>
+            <weather>01d.png</weather>
+            <weather_night>01n.png</weather_night>
+            <weather_text> CLEAR_WEATHER_SUN</weather_text>
+            <weather_textN>CLEAR_WEATHER_SUN</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>ESE</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>E</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03966</id>
+        <location>Offaly</location>
+        <day>
+            <day_num>14</day_num>
+            <date>2018-11-14T12:00:00</date>
+            <min_temp>12</min_temp>
+            <max_temp>14</max_temp>
+            <weather>05d.png</weather>
+            <weather_night>46.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>DRIZZLE</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>SSW</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>SSE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>15</day_num>
+            <date>2018-11-15T12:00:00</date>
+            <min_temp>6</min_temp>
+            <max_temp>14</max_temp>
+            <weather>46.png</weather>
+            <weather_night>02n.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>SCATTERED_CLOUDS</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>SSE</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>SE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>16</day_num>
+            <date>2018-11-16T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>13</max_temp>
+            <weather>04.png</weather>
+            <weather_night>04.png</weather_night>
+            <weather_text> GREYCLOUD</weather_text>
+            <weather_textN>GREYCLOUD</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>SSE</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>SE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>17</day_num>
+            <date>2018-11-17T12:00:00</date>
+            <min_temp>6</min_temp>
+            <max_temp>13</max_temp>
+            <weather>04.png</weather>
+            <weather_night>02n.png</weather_night>
+            <weather_text> GREYCLOUD</weather_text>
+            <weather_textN>SCATTERED_CLOUDS</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>SE</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>ESE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>18</day_num>
+            <date>2018-11-18T12:00:00</date>
+            <min_temp>5</min_temp>
+            <max_temp>10</max_temp>
+            <weather>01d.png</weather>
+            <weather_night>01n.png</weather_night>
+            <weather_text> CLEAR_WEATHER_SUN</weather_text>
+            <weather_textN>CLEAR_WEATHER_SUN</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>ESE</wind_dir>
+            <wind_speed_night> 15 </wind_speed_night>
+            <wind_dir_night>E</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03970</id>
+        <location>Mayo</location>
+        <day>
+            <day_num>14</day_num>
+            <date>2018-11-14T12:00:00</date>
+            <min_temp>12</min_temp>
+            <max_temp>14</max_temp>
+            <weather>09.png</weather>
+            <weather_night>10.png</weather_night>
+            <weather_text> MEDIUM_RAIN</weather_text>
+            <weather_textN>HEAVY_RAIN</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>SSW</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>15</day_num>
+            <date>2018-11-15T12:00:00</date>
+            <min_temp>6</min_temp>
+            <max_temp>11</max_temp>
+            <weather>09.png</weather>
+            <weather_night>01n.png</weather_night>
+            <weather_text> MEDIUM_RAIN</weather_text>
+            <weather_textN>CLEAR_WEATHER_SUN</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>SSE</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>SE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>16</day_num>
+            <date>2018-11-16T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>14</max_temp>
+            <weather>03d.png</weather>
+            <weather_night>04.png</weather_night>
+            <weather_text> SUN_WITH_GREY_CLOUD</weather_text>
+            <weather_textN>GREYCLOUD</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>SE</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>SE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>17</day_num>
+            <date>2018-11-17T12:00:00</date>
+            <min_temp>5</min_temp>
+            <max_temp>13</max_temp>
+            <weather>04.png</weather>
+            <weather_night>02n.png</weather_night>
+            <weather_text> GREYCLOUD</weather_text>
+            <weather_textN>SCATTERED_CLOUDS</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>SE</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>ESE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>18</day_num>
+            <date>2018-11-18T12:00:00</date>
+            <min_temp>6</min_temp>
+            <max_temp>10</max_temp>
+            <weather>01d.png</weather>
+            <weather_night>01n.png</weather_night>
+            <weather_text> CLEAR_WEATHER_SUN</weather_text>
+            <weather_textN>CLEAR_WEATHER_SUN</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>ESE</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>ESE</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03917</id>
+        <location>Belfast</location>
+        <day>
+            <day_num>14</day_num>
+            <date>2018-11-14T12:00:00</date>
+            <min_temp>11</min_temp>
+            <max_temp>13</max_temp>
+            <weather>05d.png</weather>
+            <weather_night>04.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>GREYCLOUD</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>SSW</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>15</day_num>
+            <date>2018-11-15T12:00:00</date>
+            <min_temp>6</min_temp>
+            <max_temp>14</max_temp>
+            <weather>05d.png</weather>
+            <weather_night>02n.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>SCATTERED_CLOUDS</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>SSE</wind_dir>
+            <wind_speed_night> 15 </wind_speed_night>
+            <wind_dir_night>SW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>16</day_num>
+            <date>2018-11-16T12:00:00</date>
+            <min_temp>9</min_temp>
+            <max_temp>13</max_temp>
+            <weather>04.png</weather>
+            <weather_night>04.png</weather_night>
+            <weather_text> GREYCLOUD</weather_text>
+            <weather_textN>GREYCLOUD</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>SE</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>SE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>17</day_num>
+            <date>2018-11-17T12:00:00</date>
+            <min_temp>7</min_temp>
+            <max_temp>10</max_temp>
+            <weather>04.png</weather>
+            <weather_night>01n.png</weather_night>
+            <weather_text> GREYCLOUD</weather_text>
+            <weather_textN>CLEAR_WEATHER_SUN</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>ESE</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>ESE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>18</day_num>
+            <date>2018-11-18T12:00:00</date>
+            <min_temp>7</min_temp>
+            <max_temp>10</max_temp>
+            <weather>01d.png</weather>
+            <weather_night>02n.png</weather_night>
+            <weather_text> CLEAR_WEATHER_SUN</weather_text>
+            <weather_textN>SCATTERED_CLOUDS</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>ESE</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>E</wind_dir_night>
+        </day>
+    </station>
+</forecast>
