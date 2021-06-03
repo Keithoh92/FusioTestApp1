@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a501f6c8-3c18-499a-b803-9bccbd9b522d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/edit.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/WeatherController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/WeatherController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/dashboard.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/dashboard.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/edit.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +180,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622370836091</updated>
       <workItem from="1622370837174" duration="47643000" />
-      <workItem from="1622623214459" duration="30753000" />
+      <workItem from="1622623214459" duration="43312000" />
     </task>
     <task id="LOCAL-00001" summary="UI implemented, Login/Registration/Security implemented/ Database working and retrieving all items, not working=DB save and edit">
       <created>1622649482335</created>
@@ -196,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622651668044</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fixed DB insert issue">
+      <created>1622656226396</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622656226396</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,17 +212,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UI implemented, Login/Registration/Security implemented/ Database working and retrieving all items, not working=DB save and edit" />
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="Fixed DB insert issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed DB insert issue" />
   </component>
   <component name="WindowStateProjectService">
     <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622655810668">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622655810668" />
-    <state x="519" y="88" key="CommitChangelistDialog2" timestamp="1622651667456">
+    <state x="519" y="88" key="CommitChangelistDialog2" timestamp="1622656225863">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="519" y="88" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622651667456" />
+    <state x="519" y="88" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622656225863" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1622632892074">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -228,21 +236,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622655822790" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1622651677475">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1622656234117">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622651677475" />
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1622633738275">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622656234117" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1622715411232">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622633738275" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622715411232" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622651627762">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622651627762" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1622386807122">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1622661302706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622386807122" />
+    <state x="616" y="240" key="run.anything.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622661302706" />
   </component>
 </project>

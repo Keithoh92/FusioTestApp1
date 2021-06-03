@@ -15,7 +15,11 @@
         @csrf
         <div class="form-group">
             <label for="location">ID</label>
-            <input type="text" name="id" placeholder="id">
+            @if(isset($data))
+                <input type="text" name="id" placeholder="id" value="{{ $data['id'] }}">
+            @else
+                <input type="text" name="id" placeholder="id">
+            @endif
             <span class="text-danger">@error('id'){{ "$message" }} @enderror</span>
         </div>
         <div class="form-group">
